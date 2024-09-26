@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 
 app = FastAPI()
 
-API_KEY = 'Use_sua_chave'  # Substitua pela sua chave
+API_KEY = '442a1ac939e50a654bbd2770df6d28d4'  # Substitua pela sua chave
 BASE_URL = 'http://api.openweathermap.org/data/2.5/weather'
 
 # Função para calcular o FWI (simplificado)
